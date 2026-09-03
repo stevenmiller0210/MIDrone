@@ -54,4 +54,6 @@ This README will be updated as the build progresses.
 
 ## License
 
-Flight control logic derived from Tim Hanewich's Scout project (MIT License). See [upstream repository](https://github.com/TimHanewich/scout) for original license terms.
+This project is licensed under the [MIT License](LICENSE).
+
+Flight control logic is derived from Tim Hanewich's Scout project, also MIT-licensed — see the [upstream repository](https://github.com/TimHanewich/scout) for the original license terms.
