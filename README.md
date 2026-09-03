@@ -10,10 +10,9 @@ The hardware selection differs from the original Scout build in a few deliberate
 
 ## Credits
 
-This project would not exist without **Tim Hanewich's** open documentation and source code:
+This project would not exist without **Tim Hanewich's** open documentation:
 
 - Article series: [My Greatest Engineering Accomplishment: The Scout Flight Controller](https://timhanewich.medium.com/my-greatest-engineering-accomplishment-the-scout-flight-controller-d8937fb45b24)
-- Original source code: [github.com/TimHanewich/scout](https://github.com/TimHanewich/scout) (MIT License)
 - Successor project: [Centauri](https://github.com/TimHanewich/centauri) / [Full-Stack Flight](https://medium.com/@timhanewich/full-stack-flight-building-a-quadcopter-ecosystem-from-scratch-18d43386bb6d)
 
 ## Hardware
